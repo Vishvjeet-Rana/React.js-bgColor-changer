@@ -3,15 +3,17 @@ import Button from "./Button";
 
 export default function App() {
   // Initialize state with value from localStorage, or default to a color if none exists
-  const [color, setColor] = useState(() => {
-    // Get saved color from localStorage or use a default color (like "white")
-    return localStorage.getItem("savedColor") || "white";
-  });
+  // const [color, setColor] = useState(() => {
+  //   // Get saved color from localStorage or use a default color (like "white")
+  //   return localStorage.getItem("savedColor") || "white";
+  // });
+
+  const [color, setColor] = useState("");
 
   let bgChange = (newColor) => {
     setColor(newColor);
     // Save to localStorage whenever color changes
-    localStorage.setItem("savedColor", newColor);
+    // localStorage.setItem("savedColor", newColor);
   };
 
   return (
