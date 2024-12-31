@@ -4,5 +4,5 @@ import react from "@vitejs/plugin-react";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/React.js-bgColor-changer/", // Add a leading and trailing slash
+  base: "./", // Add a leading and trailing slash
 });
