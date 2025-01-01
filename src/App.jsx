@@ -8,8 +8,6 @@ export default function App() {
     return localStorage.getItem("savedColor") || "white";
   });
 
-  // const [color, setColor] = useState("");
-
   let bgChange = (newColor) => {
     setColor(newColor);
     // Save to localStorage whenever color changes
