@@ -41,6 +41,6 @@ https://vishvjeet-rana.github.io/React.js-bgColor-changer/
 ## 📩 Contact
 Feel free to reach out for any queries or collaborations!
 - **LinkedIn**: [LinkedIn](#)](https://www.linkedin.com/in/vishvjeet-rana/)
-- **Twitter**: [Twitter](#)](https://x.com/RVishvjeet_)
+- **Twitter**: [Twitter](#)](https://x.com/RVishvjeet_/)
 - **Email**: aryanrana62366@gmail.com
 
